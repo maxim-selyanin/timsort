@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+#per-user file
+*.user
